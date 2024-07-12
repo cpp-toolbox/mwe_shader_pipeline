@@ -7,3 +7,6 @@
 [submodule "shader_pipeline"]
 	path = shader_pipeline
 	url = git@github.com:opengl-toolbox/shader_pipeline.git
+[submodule "clang_formatting"]
+	path = clang_formatting
+	url = git@github.com:cpp-toolbox/clang_formatting.git
